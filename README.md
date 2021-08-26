@@ -1,13 +1,13 @@
 # Hoola_RecommendationSystem
 Course Recommender with Python, Pandas, Cosine Similarity, ngrok, Streamlit and colab
 
-## Recommendation_System_DataAnalysis_R.ipynb
+#### Recommendation_System_DataAnalysis_R.ipynb
 Data Wrangling / Data Cleaning with R. A full exploratory data analysis of Courses
 
-## Recommendation_System_Model.ipynb
+#### Recommendation_System_Model.ipynb
 Build a model (Cosine Similarity Matrix) for the Recommendation System
 
-## app.ipynb
+#### app.ipynb
 Build an webapp of the Recommendation System using ngrok, Streamlit and Colab (including the deatils for connecting Colab and Streamlit via ngrok). 
 
 
