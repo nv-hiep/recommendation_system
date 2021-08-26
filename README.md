@@ -1,20 +1,20 @@
 # Hoola_RecommendationSystem
-Course Recommender with Python, Pandas, Cosine Similarity, ngrok, Streamlit and colab
+Course Recommender with Python, Pandas, Cosine Similarity, ngrok, Streamlit and colab.
 
-#### Recommendation_System_DataAnalysis_R.ipynb
-Data Wrangling / Data Cleaning with R. A full exploratory data analysis of Courses
+##### 1. Recommendation_System_DataAnalysis_R.ipynb
+Data Wrangling / Data Cleaning with R. A full exploratory data analysis of Courses.
 
-#### Recommendation_System_Model.ipynb
-Build a model (Cosine Similarity Matrix) for the Recommendation System
+##### 2. Recommendation_System_Model.ipynb
+Build a model (Cosine Similarity Matrix) for the Recommendation System.
 
-#### app.ipynb
-Build an webapp of the Recommendation System using ngrok, Streamlit and Colab (including the deatils for connecting Colab and Streamlit via ngrok). 
+##### 3. app.ipynb
+Build a webapp of the Recommendation System using ngrok, Streamlit and Colab (including the deatils for connecting Colab and Streamlit via ngrok). 
 
 
 ## Prerequisite
 - Create an account on Ngrok (https://ngrok.com/). ngrok provides a real-time web UI where you can introspect all HTTP traffic running over your tunnels.
 
-- Get Authentication Token (https://dashboard.ngrok.com/get-started/your-authtoken)
+- Get Authentication Token (https://dashboard.ngrok.com/get-started/your-authtoken).
 
 - The Auth token is in this format: ./ngrok authtoken xxxxxxxxxxxxxxxxxxxxxxxxxx
 
