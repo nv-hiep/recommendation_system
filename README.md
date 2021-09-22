@@ -8,7 +8,9 @@ Data Wrangling / Data Cleaning with R. A full exploratory data analysis of Cours
 Build a model (Cosine Similarity Matrix) for the Recommendation System.
 
 ##### 3. app.ipynb
-Build a webapp of the Recommendation System using ngrok, Streamlit and Colab (including the details for connecting Colab and Streamlit via ngrok). 
+Build a webapp of the Recommendation System using ngrok, Streamlit and Colab (including the details for connecting Colab and Streamlit via ngrok).
+
+Refer to /images for some images of examples.
 
 
 ## Prerequisite
