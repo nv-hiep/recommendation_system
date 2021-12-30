@@ -13,6 +13,18 @@ Build a webapp of the Recommendation System using ngrok, Streamlit and Colab (in
 Refer to /images for some images of examples.
 
 
+![fig1](https://user-images.githubusercontent.com/13595525/147733311-ce99bf8f-5af7-492c-85f9-5cc48e26e2e6.jpg)
+
+![fig2](https://user-images.githubusercontent.com/13595525/147733318-c66881af-7dfd-4035-91d5-c0fd196cbd58.jpg)
+
+![fig3](https://user-images.githubusercontent.com/13595525/147733327-b37aa2b5-a6d2-482e-8d23-7a26876c3699.jpg)
+
+![fig4](https://user-images.githubusercontent.com/13595525/147733331-380724d4-63dc-4715-bd6a-d7b6da5086ea.jpg)
+
+![fig5](https://user-images.githubusercontent.com/13595525/147733338-fbef3b53-e3d7-4a88-89a7-4a48b7d31ac6.jpg)
+
+![fig6](https://user-images.githubusercontent.com/13595525/147733347-c28e3489-ad4b-426d-8334-5f7ef1de6586.jpg)
+
 ## Prerequisite
 - Create an account on Ngrok (https://ngrok.com/). ngrok provides a real-time web UI where you can introspect all HTTP traffic running over your tunnels.
 
